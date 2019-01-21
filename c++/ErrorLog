@@ -1,0 +1,3 @@
+C:\Users\ADEDOYIN DARE\Documents\FORTRAN90\PROJECTS\c++\abstest.F95(4) : error 647 - ABS is a PROGRAM name, so cannot be called
+C:\Users\ADEDOYIN DARE\Documents\FORTRAN90\PROJECTS\c++\abstest.F95(4) : error 691 - This is a recursive call, yet ABS does not have the RECURSIVE attribute
+C:\Users\ADEDOYIN DARE\Documents\FORTRAN90\PROJECTS\c++\abstest.F95(4) : error 645 - ABS is a SUBROUTINE so cannot be used as a FUNCTION

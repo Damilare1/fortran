@@ -1,0 +1,15 @@
+PROGRAM INTEREST2
+REAL BAL,RATE
+INTEGER I ,J
+BAL = 1000
+RATE = 0.01
+DO I = 1,10
+  DO J = 1,12
+    BAL = BAL + (BAL*RATE)
+    
+      END DO
+    WRITE(*,*) I,  BAL
+      END DO
+
+ END PROGRAM
+    
